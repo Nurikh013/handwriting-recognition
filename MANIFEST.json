@@ -1,0 +1,80 @@
+{
+  "source_archive_sha256": "707c013294a730f106bddd827da6f1d11c9f62d85361b3416673ddda4c62206e",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 114,
+      "sha256": "45638da5cb0ceebf94bfe8d2af10bba97bfa2a662f92f88273f406fe1d0325fe"
+    },
+    {
+      "path": ".github/workflows/check.yml",
+      "bytes": 605,
+      "sha256": "580d00dc65f1a822fa2e7d42d72d9014bd10ec8675cd3ca9da8f9664e493b467"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 306,
+      "sha256": "6e4d8951bc2e7ff6b00566e2862ab28bd51d1263d8fc272609eda3480e01335b"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 1495,
+      "sha256": "861d96dee304b8db05246cad05d82b089abfa87da4148fa6ed7713f6c6b8c4d9"
+    },
+    {
+      "path": "docs/presentation.pdf",
+      "bytes": 492606,
+      "sha256": "fdbb855bc2ae1c7a35704d61932c5f2548f891759dd39211ead263cc9983b717"
+    },
+    {
+      "path": "docs/project-paper.pdf",
+      "bytes": 5231983,
+      "sha256": "23550b6f08ef57b7a52b7463854dfddc228cf12c1f08eb5a6c7e12d0a54a376c"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 2286,
+      "sha256": "55eaea741ba1d858d903f795aa9513e1d92a193f1199fc5e95a0c65bec216211"
+    },
+    {
+      "path": "htr.py",
+      "bytes": 20837,
+      "sha256": "4f3d429f1a14c037ea7c98e5b2fb057d23c8ce717b871bec314eea6a68d22aa4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6215,
+      "sha256": "d1eff64f67f402b541ebe5aa1018ce8cabf23e5c3ab7229aa987723f30f21154"
+    },
+    {
+      "path": "REFERENCES.md",
+      "bytes": 1105,
+      "sha256": "7d506d40088abfef1632f3e9d788932ba5cd5e04e11a75cea7441c901b4e8139"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 115,
+      "sha256": "3d3369ca012f53fdb480b5b093357cf0a2b18d096a3c2d043930bae49d8501c9"
+    },
+    {
+      "path": "tests/test_htr.py",
+      "bytes": 7193,
+      "sha256": "bfc77720333c0a48746c7d498912c6de3f32cd9d74abab463bd7c0d89e078a51"
+    },
+    {
+      "path": "validation/environment.json",
+      "bytes": 297,
+      "sha256": "a5833bcb894857e0be474e6b848dc96f3a743ea2774b07b17e4415ede0de7acb"
+    },
+    {
+      "path": "validation/tests.txt",
+      "bytes": 2131,
+      "sha256": "cb6dbdcbba96de7fd053b3dea5a28e025d31baf9e79910dbc8c83d4bf98ce460"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 3216,
+      "sha256": "107751262452a2b17bd2adb64cc06f1f742013bf0f8bf051485f4f1654f190c1"
+    }
+  ]
+}

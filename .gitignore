@@ -1,0 +1,25 @@
+# Local environments and generated outputs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+/runs/
+/checkpoints/
+*.pt
+*.pth
+
+# Keep IAM data and credentials out of the repository
+/data/iam/
+kaggle.json
+.env
+.env.*
+
+# Archive/system artifacts
+__MACOSX/
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
