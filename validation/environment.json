@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-09",
+  "python": "3.12.14",
+  "torch": "2.6.0+cpu",
+  "numpy": "2.3.5",
+  "pillow": "13.0.0",
+  "device": "CPU",
+  "tests_passed": 15,
+  "full_iam_training_performed": false,
+  "benchmark_accuracy_reproduced": false,
+  "record_stage": "local preparation before publication"
+}
