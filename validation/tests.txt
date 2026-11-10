@@ -1,0 +1,20 @@
+test_ctc_alignment_accounts_for_repeated_characters (test_htr.RecognitionTests.test_ctc_alignment_accounts_for_repeated_characters) ... ok
+test_ctc_collapse_repeats_and_blank (test_htr.RecognitionTests.test_ctc_collapse_repeats_and_blank) ... ok
+test_duplicate_annotations_are_not_counted_twice (test_htr.RecognitionTests.test_duplicate_annotations_are_not_counted_twice) ... ok
+test_insufficient_groups_are_reported (test_htr.RecognitionTests.test_insufficient_groups_are_reported) ... ok
+test_loader_filters_segmentation_missing_corrupt_and_unalignable (test_htr.RecognitionTests.test_loader_filters_segmentation_missing_corrupt_and_unalignable) ... ok
+test_metrics_include_empty_predictions_and_insertions (test_htr.RecognitionTests.test_metrics_include_empty_predictions_and_insertions) ... ok
+test_metrics_reject_empty_reference_collection (test_htr.RecognitionTests.test_metrics_reject_empty_reference_collection) ... ok
+test_model_time_axis_matches_preprocessor_width (test_htr.RecognitionTests.test_model_time_axis_matches_preprocessor_width) ... ok
+test_preprocessing_preserves_aspect_and_white_padding (test_htr.RecognitionTests.test_preprocessing_preserves_aspect_and_white_padding) ... ok
+test_split_has_disjoint_groups_and_reproducible_ids (test_htr.RecognitionTests.test_split_has_disjoint_groups_and_reproducible_ids) ... ok
+test_subsampling_respects_global_cap_and_nonempty_subsets (test_htr.RecognitionTests.test_subsampling_respects_global_cap_and_nonempty_subsets) ... ok
+test_synthetic_training_checkpoint_and_inference (test_htr.RecognitionTests.test_synthetic_training_checkpoint_and_inference) ... ok
+test_training_evaluation_and_prediction_cli_on_synthetic_iam_layout (test_htr.RecognitionTests.test_training_evaluation_and_prediction_cli_on_synthetic_iam_layout) ... ok
+test_unknown_character_is_not_silently_deleted (test_htr.RecognitionTests.test_unknown_character_is_not_silently_deleted) ... ok
+test_writer_split_requires_metadata (test_htr.RecognitionTests.test_writer_split_requires_metadata) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 16.972s
+
+OK
